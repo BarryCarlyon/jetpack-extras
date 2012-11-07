@@ -39,7 +39,6 @@ Requires [WordPress Jetpack](http://wordpress.org/extend/plugins/jetpack/)
 
 ## Screenshots ##
 
-###1. Main Options###
 [Available Here](http://wordpress.org/extend/plugins/jetpack-extras/screenshots/)
 
 ## Changelog ##
